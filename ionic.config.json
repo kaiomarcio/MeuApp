@@ -1,5 +1,6 @@
 {
   "name": "Meuapp",
   "integrations": {},
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "id": "55d2b01c"
 }
